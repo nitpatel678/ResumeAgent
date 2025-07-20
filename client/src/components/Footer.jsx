@@ -8,13 +8,10 @@ export default function Footer() {
       {/* Logo + Title */}
       <div className="flex items-center gap-2">
         <img
-          src="https://img.icons8.com/wired/64/c-programming.png"
+          src="./logo.png"
           alt="Cortex Logo"
           className="h-10"
         />
-        <span className="text-purple-500 text-xl font-bold font-poppins">
-          Cortex
-        </span>
       </div>
 
       {/* Copyright */}

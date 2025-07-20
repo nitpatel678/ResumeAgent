@@ -12,9 +12,9 @@ const Navbar = () => {
     sm:px-20 xl:px-32 cursor-pointer"
     >
       <img
-        src="https://img.icons8.com/wired/64/c-programming.png"
+        src="./logo.png"
         alt="logo"
-        className="w-5 sm:w-10"
+        className="w-16 sm:w-24"
         onClick={() => navigate("/")}
       />
 
